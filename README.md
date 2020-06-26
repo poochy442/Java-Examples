@@ -1,6 +1,6 @@
 # Java Pre-Designed Code
 
-This is a repository for Java code for a specific purpose or design. This can then be re-purposed for a specific project.
+This is a repository for Java code for a specific purpose or design. This can then be re-purposed for a later project.
 All projects use Maven to manage depencies.
 
 ## Table of contents
